@@ -394,7 +394,7 @@ export default {
             label: "通用",
             options: [
               {
-                label: "本地自用规则"
+                label: "本地自用规则",
                 value: "https://raw.githubusercontent.com/LK373391947/Clash-/master/ClashRule.ini"
               },
               {
