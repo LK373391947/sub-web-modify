@@ -396,7 +396,7 @@ export default {
               {
                 label: "本地自用规则"
                 value: "https://raw.githubusercontent.com/LK373391947/Clash-/master/ClashRule.ini"
-              }
+              },
               {
                 label: "默认",
                 value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
