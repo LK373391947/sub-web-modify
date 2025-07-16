@@ -27,4 +27,4 @@ jobs:
         context: .
         platforms: linux/amd64,linux/arm,linux/arm64
         push: true
-        tags: chinaluke/sub-web-modify:1.0.2
+        tags: chinaluke/sub-web-modify:1.0.3
